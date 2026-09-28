@@ -1,0 +1,9 @@
+{
+  "name": "jatmode",
+  "version": "0.0.1",
+  "title": "JatMode",
+  "author": "TideSinger",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1"],
+  "description": "OK!"
+}
