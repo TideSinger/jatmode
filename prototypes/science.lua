@@ -1,11 +1,3 @@
--- Set up subgroup
-data:extend{{
-    type = "item-subgroup",
-    name = "jm-item-subgroup-science",
-    group = "production",
-    order = "z"
-}}
-
 -- Construction Science Pack
 local sciencePackConstruction = {
     name = "construction-science-pack",
